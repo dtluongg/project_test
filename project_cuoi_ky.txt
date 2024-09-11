@@ -1,0 +1,3 @@
+Hello, chú bé Lượng xin chào mọi người.
+Đây là bài tập thực tế áp dụng cho làm việc nhóm với git.
+Mọi người biết sử dụng git chưa? ai vô rồi thì xác nhận chào nhau nhé.
