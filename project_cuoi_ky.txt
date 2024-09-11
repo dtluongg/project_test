@@ -1,0 +1,2 @@
+Xin chào, mình là Đỗ Tiến Lượng, mình đến từ Hà Nam.
+Mình mới học xong branch, merge, switch, checkered, checkout
