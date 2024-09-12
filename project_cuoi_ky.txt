@@ -1,10 +1,12 @@
-<<<<<<< HEAD
 Hello... xin chào mọi người.
 Đây là bài tập thực tế áp dụng cho làm việc nhóm với git.
 Mọi người biết sử dụng git chưa? ai vô rồi thì xác nhận chào nhau nhé.
 
+Nhóm 2: KHMT
+
+//Huy giới thiệu
 Mình là Nguyễn Quốc Huy, mình là thành viên nhóm 2, năm nay mình sắp ra trường cmnr.
-=======
+
+//Khang giới thiệu
 Mình là Võ Dương Khang, mình đến từ Bến Tre (biển số xe 71).
 Mình học ngành KHMT cùng với Nguyễn Quốc Huy
->>>>>>> origin/VoDuongKhang
