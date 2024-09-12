@@ -1,8 +1,17 @@
-<<<<<<< HEAD
+Lớp trưởng
 =======
 Hello... xin chào mọi người.
 Đây là bài tập thực tế áp dụng cho làm việc nhóm với git.
 Mọi người biết sử dụng git chưa? ai vô rồi thì xác nhận chào nhau nhé.
 
-Mình tên là Trần Trọng Huy, nickname HyzuTran.
->>>>>>> c936e280a235b4efd4956da8ff7e612274a8da38
+
+
+Nhóm 1:
+Đỗ Tiến Lượng:
+Xin chào, mình là Đỗ Tiến Lượng, mình đến từ Hà Nam.
+Mình mới học xong branch, merge, switch, checkered, checkout.
+
+
+Trần Trọng Huy:
+Xin chào mọi người, mình là Trần Trọng Huy, mình đến từ nhóm 1.
+Huy là bạn của Lượng
