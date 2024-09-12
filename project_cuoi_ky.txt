@@ -1,3 +1,12 @@
+Lớp trưởng
+=======
+Hello... xin chào mọi người.
+Đây là bài tập thực tế áp dụng cho làm việc nhóm với git.
+Mọi người biết sử dụng git chưa? ai vô rồi thì xác nhận chào nhau nhé.
+
+
+
+Nhóm 1:
 Đỗ Tiến Lượng:
 Xin chào, mình là Đỗ Tiến Lượng, mình đến từ Hà Nam.
 Mình mới học xong branch, merge, switch, checkered, checkout.
