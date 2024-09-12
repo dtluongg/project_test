@@ -1,2 +1,8 @@
+Đỗ Tiến Lượng:
+Xin chào, mình là Đỗ Tiến Lượng, mình đến từ Hà Nam.
+Mình mới học xong branch, merge, switch, checkered, checkout.
+
+
+Trần Trọng Huy:
 Xin chào mọi người, mình là Trần Trọng Huy, mình đến từ nhóm 1.
 Huy là bạn của Lượng
